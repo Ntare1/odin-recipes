@@ -1,0 +1,1 @@
+This repository contains practice projects from the odin project
